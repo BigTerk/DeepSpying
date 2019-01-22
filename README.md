@@ -2,7 +2,6 @@
 
 Authors:
 <br>Roger Doles
-<br>Cassidy Nix
 <br>Greg Terecky
 
 Abstract:<br>
